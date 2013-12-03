@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OrderUpClient</string>
+    <string name="connect">Connect</string>
+</resources>
